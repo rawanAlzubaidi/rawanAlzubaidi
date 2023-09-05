@@ -2,8 +2,8 @@
 <h3 align="center"> I'm a computer science student at Texas A&M University </h3>
 
 ## About Me
-<li>i'm currently learning HTML, CSS and JavaScript ontop of my school studies
-<li>i'm currently working on developing website from scratch for a student org that I serve as a marketing officer in  
+<li>i'm currently learning Web development ontop of my school studies
+<li>i'm  working on developing an interactive language learning app for my capstone project 
 <li>i'm a member in Aggie Women in Computer Science at my university
 <li>Aside from coding I love videography and video editing. Obsessed with the outdoors + plants! & I love learning new jump rope tricks 
 
